@@ -1,0 +1,14 @@
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\bin\Debug\net6.0\Bucles.exe
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\bin\Debug\net6.0\Bucles.deps.json
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\bin\Debug\net6.0\Bucles.runtimeconfig.json
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\bin\Debug\net6.0\Bucles.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\bin\Debug\net6.0\Bucles.pdb
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.AssemblyInfoInputs.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.AssemblyInfo.cs
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\refint\Bucles.dll
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.pdb
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\Bucles.genruntimeconfig.cache
+C:\Users\StarSilver\OneDrive\Escritorio\Curso C#\Bucles\Bucles\obj\Debug\net6.0\ref\Bucles.dll
